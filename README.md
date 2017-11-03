@@ -5,7 +5,7 @@ A fully-working 3D map editor (in Java) and level compilation toolchain (in C++)
 
 Make the build process easier; make Shipwreck's build.sh work properly.
 
-Shipwreck is actually updated in sgolodetz's update-shipwreck branch; must merge those changes.
+Shipwreck is actually updated in the update-shipwreck branch; must merge those changes.
 
 Update dependencies.
 
