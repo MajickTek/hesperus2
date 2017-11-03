@@ -4,4 +4,9 @@ A fully-working 3D map editor (in Java) and level compilation toolchain (in C++)
 # TODO
 
 Make the build process easier; make Shipwreck's build.sh work properly.
+
 Update dependencies.
+
+Make CMake compilation up-to-date.
+
+Push new updates to main repo as a pull request?
