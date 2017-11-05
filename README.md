@@ -63,5 +63,6 @@ Push new updates to main repo as a pull request?
 Add better Quake1/GoldSrc support (instructions for Hammer are in notes/hesperus - hammer.txt)
 
 Add self-updating system in java to update Shipwreck (the editor) and download new versions of the tools (?).
+The resource for that could be http://www.dreamincode.net/forums/topic/190944-creating-an-updater-in-java/ .
 
 See more TODO stuff (engine- and tool-related) in notes/hesperus - todo.txt
