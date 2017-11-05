@@ -51,3 +51,4 @@ To use your textures, you must convert them to hammer-compatible texture formats
 
 Also, getting this to work is NOT easy. you will probably have to change the code of the hesperus2 tools to compile Hammer files/FGDs/etc; which is a lot of work.
 
+more info is available here: http://www.flipcode.com/archives/Level_Editing.shtml (kind of outdated, but the interface of WorldCraft was the same as Hammer; and the Forge no longer exists, just get Hammer from steam or the bin folder).
