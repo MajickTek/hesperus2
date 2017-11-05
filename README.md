@@ -25,3 +25,5 @@ Make CMake compilation up-to-date.
 Push new updates to main repo as a pull request?
 
 Add better Quake1/GoldSrc support (add instructions for setting up tools in Hammer)
+
+See more TODO stuff (engine- and tool-related) in notes/hesperus - todo.txt
