@@ -44,7 +44,9 @@ mef2input
 
 The map format has the extension .mef; with exceptions (.max, .map).
 
-It comes with a map editor (Shipwreck; java), and a game engine (ScarletPimpernel; c++)
+It comes with a map editor (Shipwreck; java), and a game engine (ScarletPimpernel; c++).
+
+Everything is fully documented, including all the things that need to be fixed/added.
 
 ## TODO
 
