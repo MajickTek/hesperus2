@@ -45,4 +45,4 @@ Keep in mind that this tutorial has NOT been tested.
 
 Hammer will probably throw a bunh of errors and warnings about how it's "not the right game".
 
-We will work on a proper Hammer config folder to trick Hammer into thinking that hesperus2 is half-life.
+We will work on a proper Hammer config folder to trick Hammer into thinking that hesperus2 IS half-life.
