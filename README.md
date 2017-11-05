@@ -12,6 +12,40 @@ hbsp
 
 hvis
 
+Here is a list of all the tools in this toolkit:
+
+hbsp
+
+hcollate
+
+hcsg
+
+hdetail
+
+hdivide
+
+hexpand
+
+hflood
+
+hlight
+
+hnav
+
+hobsp
+
+hoportal
+
+hportal
+
+hvis
+
+mef2input
+
+The map format has the extension .mef; with exceptions (.max, .map).
+
+It comes with a map editor (Shipwreck), and a game engine (ScarletPimpernel)
+
 ## TODO
 
 Make the build process easier; make Shipwreck's build.sh work properly.
