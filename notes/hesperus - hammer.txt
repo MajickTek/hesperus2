@@ -1,0 +1,48 @@
+These are our official instructions for setting up the hesperus2 toolchain in Hammer.
+
+This guide will help you use Hammer to build maps for our game engine(s) and NOT GoldSrc.
+
+The reason why the resulting maps could not run in GoldSrc is because the said format is different.
+
+Anyway, here is the tutorial:
+
+
+First, download the Half-Life SDK via steam or github (github.com/ValveSoftware/halflife).
+
+Hammer.exe is also in the bin folder of Half-Life.
+
+Keep in mind that this will ONLY wrk well for Hammer 3.x (GoldSrc edition), as the build tools are similar.
+
+Open Hammer.
+
+Click Tools | Options.
+
+ Set the game directory to the game engine's folder (not half-life).
+
+Set the RMF directory to the folder where you want the compiled maps to go.
+
+Now click the Build Programs tab.
+
+Set your game executable to the game engine executable (again, not half-life's executable).
+
+Set the CSG executable to hcsg.
+
+Set the BSP executable to hbsp.
+
+Set the VIS  executable to hvis.
+
+There is no equivalent RAD program, so leave that blank for now.
+
+Create your map, and click on File | Run Map.
+
+In the dialogue that comes up, disable the use of RAD.
+
+And that should be it!
+
+In theory, this could be used to port half-life maps to the hesperus2 engine.
+
+Keep in mind that this tutorial has NOT been tested.
+
+Hammer will probably throw a bunh of errors and warnings about how it's "not the right game".
+
+We will work on a proper Hammer config folder to trick Hammer into thinking that hesperus2 is half-life.
