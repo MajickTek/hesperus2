@@ -46,3 +46,8 @@ Keep in mind that this tutorial has NOT been tested.
 Hammer will probably throw a bunh of errors and warnings about how it's "not the right game".
 
 We will work on a proper Hammer config folder to trick Hammer into thinking that hesperus2 IS half-life.
+
+To use your textures, you must convert them to hammer-compatible texture formats. Doing that is beyond the scope of this tutorial (but will be added soon).
+
+Also, getting this to work is NOT easy. you will probably have to change the code of the hesperus2 tools to compile Hammer files/FGDs/etc; which is a lot of work.
+
