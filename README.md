@@ -14,33 +14,33 @@ hvis
 
 Here is a list of all the tools in this toolkit:
 
-hbsp
+hbsp - Compiles BSP
 
-hcollate
+hcollate - computes collate (insert more info later)
 
-hcsg
+hcsg - Calculates Brushes
 
-hdetail
+hdetail - (insert more info later)
 
-hdivide
+hdivide - (insert more info later)
 
-hexpand
+hexpand - (insert more info later)
 
-hflood
+hflood - (insert more info later)
 
-hlight
+hlight - Calculates lighting
 
-hnav
+hnav - calculates navigatable space (insert more info later)
 
-hobsp
+hobsp - Compile onion BSP
 
-hoportal
+hoportal - Compiles onion portals
 
-hportal
+hportal - Compiles portals
 
-hvis
+hvis - Visibility calculation (insert more info later)
 
-mef2input
+mef2input - Compiles Shipwreck MEF (Map Editor Format) files into files that the above tools can process and build.
 
 The map format has the extension .mef; with exceptions (.max, .map).
 
