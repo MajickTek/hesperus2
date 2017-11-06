@@ -16,7 +16,7 @@ Here is a list of all the tools in this toolkit:
 
 hbsp - Compiles BSP
 
-hcollate - computes collate (insert more info later)
+hcollate - combines files from these tools together
 
 hcsg - Calculates Brushes
 
