@@ -2,15 +2,6 @@
 A fully-working 3D map editor (in Java) and level compilation toolchain (in C++), and a part-finished 3D game engine (in C++). Early development was done in the hesperus project and ported to CMake to form hesperus2.
 
 # Our Stuff
-Some of these tools are compatible with Quake 1/VALVE's GoldSrc Engine.
-
-These tools are:
-
-hcsg
-
-hbsp
-
-hvis
 
 Here is a list of all the tools in this toolkit:
 
@@ -41,6 +32,8 @@ hportal - Compiles portals
 hvis - Visibility calculation (insert more info later)
 
 mef2input - Compiles Shipwreck MEF (Map Editor Format) files into files that the above tools can process and build.
+
+Some of these tools are compatible with Quake 1/VALVE's GoldSrc Engine.
 
 The map format has the extension .mef; with exceptions (.max, .map).
 
