@@ -11,7 +11,7 @@ First, download the Half-Life SDK via steam or github (github.com/ValveSoftware/
 
 Hammer.exe is also in the bin folder of Half-Life.
 
-Keep in mind that this will ONLY wrk well for Hammer 3.x (GoldSrc edition), as the build tools are similar.
+Keep in mind that this will ONLY work well for Hammer 3.x (GoldSrc edition), as the build tools are similar.
 
 Open Hammer.
 
